@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch movies.</p>
 
 ###
 
