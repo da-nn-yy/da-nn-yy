@@ -48,8 +48,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-   <img src="[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-blue)](https://github.com/da-nn-yy/da-nn-yy)"/>
-</div>
+<h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
+
+[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-black)](https://github.com/da-nn-yy/da-nn-yy)
+
 ###
