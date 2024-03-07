@@ -49,14 +49,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-blue)](https://github.com/da-nn-yy/da-nn-yy)
-
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <img src="[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-blue)](https://github.com/da-nn-yy/da-nn-yy)"/>
 </div>
-
 ###
