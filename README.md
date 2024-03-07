@@ -50,7 +50,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-(https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy)
+[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-blue)](https://github.com/da-nn-yy/da-nn-yy)
 
 
 ###
