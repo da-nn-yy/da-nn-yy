@@ -50,6 +50,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be12q&theme=vue-dark)](https://github.com/Be12q/github-readme-stats)
+
+
 ###
 
 <div align="center">
