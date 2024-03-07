@@ -49,9 +49,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<div>
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy)</span>
-</div>
+
+(https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy)
+
 
 ###
 
