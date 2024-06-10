@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
+<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be the number one Frontend developer<br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
 
 ###
 
