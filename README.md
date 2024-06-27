@@ -17,7 +17,7 @@
 </div>
 
 ###
-<span style="font-size: larger;">👋</span>
+<span style="font-size:10px;">👋</span>
 <h1 align="center">Hey There</h1>
 
 ###
