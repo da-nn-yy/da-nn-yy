@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h1 align="center" height:"25">👋</h1>
+<h1 align="center" height="25">👋</h1>
 <h1 align="center">Hey There</h1>
 
 ###
