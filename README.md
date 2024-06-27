@@ -17,7 +17,7 @@
 </div>
 
 ###
-<span>👋</span
+<span>👋</span>
 <h1 align="center">Hey There</h1>
 
 ###
