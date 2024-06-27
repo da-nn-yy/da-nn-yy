@@ -17,7 +17,7 @@
 </div>
 
 #
-<h1 align="center" font-size="40PX">👋</h1>
+<img src="https://iconduck.com/emojis/36532/waving-hand?shared" align="center"/>
 <h1 align="center">Hey There</h1>
 
 ###
