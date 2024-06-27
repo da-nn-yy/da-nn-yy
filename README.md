@@ -17,7 +17,7 @@
 </div>
 
 ###
-<img src="https://static.vecteezy.com/system/resources/previews/002/668/687/large_2x/clubhouse-icon-in-flat-style-free-vector.jpg" align="center"/>
+<img src="https://www.vecteezy.com/png/28727880-waving-hand-icon-emoji-sticker" align="center"/>
 <h1 align="center">Hey There</h1>
 
 ###
