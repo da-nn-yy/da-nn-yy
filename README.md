@@ -17,7 +17,7 @@
 </div>
 
 ###
-<img src="https://www.vecteezy.com/vector-art/4625913-hi-comic-doodle-sticker" align="center"/>
+
 <h1 align="center">Hey There</h1>
 
 ###
