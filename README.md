@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="center" dispaly="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
@@ -42,8 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind" />
   <img width="12"/>
- 
-</div>
+ </div>
 
 ###
 
