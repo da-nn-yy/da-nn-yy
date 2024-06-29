@@ -18,7 +18,9 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be the number one Frontend developer<br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
+<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be the number one Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
 
 ###
 
@@ -45,5 +47,8 @@
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
 [![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-white)](https://github.com/da-nn-yy/da-nn-yy)
+
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
