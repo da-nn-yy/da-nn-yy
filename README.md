@@ -49,6 +49,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy"/> </p>
 
 ###
-<p align="cneter"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/></p>
+<p align="cneter"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/></p>
 
 ###
