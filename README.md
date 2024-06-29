@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be the number one Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
+<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
 
 ###
 
