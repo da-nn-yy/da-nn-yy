@@ -46,9 +46,9 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy)
+<p align="center">[![Da-nn-yy-git-status](https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy)</p>
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="cneter">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ###
