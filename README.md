@@ -46,7 +46,7 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark)](https://github.com/da-nn-yy/da-nn-yy"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/> </p>
 
 ###
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/></p>
