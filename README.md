@@ -12,11 +12,6 @@
 
 ###
 
-<div align="center">![undraw_developer_activity_re_39tg (1)](https://github.com/user-attachments/assets/845424e4-7b67-4e75-957f-1ffc327b184d)</svg>
-
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&](https://iconscout.com/lottie-animation/programming-languages-10368129)"  />
-</div>
-
 ###
 
 <h1 align="center">Hey There
