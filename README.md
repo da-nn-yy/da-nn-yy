@@ -26,6 +26,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<br/>
 
 ###
 - 🔭 I’m trying ma best to be a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -37,7 +38,7 @@
 - ⚡ In my free time I would like to watch anime.
   
 ###
-<br/><br/><br/>
+<br/><br/>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
