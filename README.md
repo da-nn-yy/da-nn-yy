@@ -37,8 +37,7 @@
 - ⚡ In my free time I would like to watch anime.
   
 ###
-<br/>
-<hr/>
+<br/><br/><br/>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
