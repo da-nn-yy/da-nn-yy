@@ -53,10 +53,10 @@
 ###
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
-<h1>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/></p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/>
   
-<p align="right"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/></p>
-</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/>
+
 
 ###
