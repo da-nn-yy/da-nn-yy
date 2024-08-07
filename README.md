@@ -15,8 +15,9 @@
 
 ###
 
-<h1 align="center">Hey There
+<h1 align="center">Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Daniel
 </h1>
 
 <img align="right" alt="Coding" width="350"
@@ -27,9 +28,13 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.
-</p>
+- 🔭 I’m trying ma best to be a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 📚 I'm currently learning at Adama Science and technology University 
+
+- ✅ Intersted in graphics,web design and video editing
+
+- ⚡ In my free time I would like to watch anime.
   
 ###
 
