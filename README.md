@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01"/>
+
 
 ###
 
@@ -24,9 +24,12 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.</p>
-
+<div style:"display=flex;">
+  <p align="left">I'm Daniel from Ethiopia🇪🇹<br><br>- 🔭 I’m trying ma best to be a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <br>- 📚 I'm currently learning at Adama Science and technology University<br>- ⚡ In my free time I like to watch anime.
+  </p>
+  <img src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01"/>
+</div>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
