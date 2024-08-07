@@ -31,8 +31,6 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-![Uploading undraw_developer_activity_re_39tg (1).png…]()
-![alt text](Uploading undraw_developer_activity_re_39tg (1).png)
 
 
 
