@@ -55,7 +55,7 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/>
 
