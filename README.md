@@ -55,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,github,postman,ubuntu,vercel" />
 
 ### UI/UX Design
-<img src="https://skillicons.dev/icons?i=Figma,Framer,xd" />
+<img src="https://skillicons.dev/icons?i=figma,framer,xd" />
 
 
 ---
