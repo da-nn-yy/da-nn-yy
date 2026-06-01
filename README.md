@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=py,js,ts" />
 
 ### Backend & Data
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,mysql,firebase,supabase" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
