@@ -43,13 +43,35 @@
 
 ###
 
+## 🛠️ Technologies I Work With
+
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts" />
+
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### DevOps & Infra
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,github,postman,ubuntu,vercel" />
+
+### UI/UX Design
+<img src="https://skillicons.dev/icons?i=Figma,Framer,xd" />
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,javascript,css,react,tailwind,git,django,python,java,cpp" />
-  </a>
-</p>
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/9745F5/da-nn-yy)
+
+</div>
+
+---
 
 ###
 
