@@ -66,7 +66,7 @@
 
 <div align="center">
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/0745F5/da-nn-yy)
+![GitHub Contribution Graph](https://ghchart.rshah.org/008000/da-nn-yy)
 
 </div>
 
