@@ -23,22 +23,21 @@
 <img align="right" alt="Coding" width="320"
     src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01">
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-<br/>
+## 👨‍💻 About Me
 
-###
-- 🔭 I’m a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a **Full-Stack Developer** with a strong foundation in **modern web technologies, backend architecture, and UI/UX design**.  
+I focus on building **production-ready applications** that are scalable, secure, and intuitive to use.
 
-- 📚 I'm currently learning at Adama Science and technology University 
+- Full-stack development with **Next.js, React, Node.js, Express**
+- Strong experience with **REST APIs, authentication, RBAC, and databases**
+- UI/UX design using **Figma** with a design-to-code mindset
+- BSc in **Computer Science & Engineering** @ Adama Science and Technology University
 
-- ✅ Intersted in graphics,web design and video editing
+I enjoy working on real-world products where **performance, clean architecture, and usability** matter.
 
-- ⚡ In my free time I would like to watch anime.
-  
-
-###
+---
 
 ## 🛠️ Technologies I Work With
 
