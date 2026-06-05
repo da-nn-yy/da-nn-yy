@@ -11,7 +11,22 @@
 
 </div>
 
-###
+
+---
+
+<h1 align="center">
+  Hi 👋 I'm Daniel Merga
+</h1>
+
+<p align="center">
+  <strong>Full-Stack Web Developer & UI/UX Designer</strong><br/>
+  Building scalable, high-performance, and user-centric web applications
+</p>
+
+<img align="right" alt="Coding illustration" width="320"
+src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01"/>
+
+---
 
 ###
 
