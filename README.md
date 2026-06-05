@@ -23,7 +23,6 @@
 <img align="right" alt="Coding" width="320"
     src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01">
 
----
 
 ## 👨‍💻 About Me
 
