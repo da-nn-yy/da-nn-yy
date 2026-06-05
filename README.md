@@ -30,10 +30,10 @@
 I’m a **Full-Stack Developer** with a strong foundation in **modern web technologies, backend architecture, and UI/UX design**.  
 I focus on building **production-ready applications** that are scalable, secure, and intuitive to use.
 
-🔭 Full-stack development with **Next.js, React, Node.js, Express**
-⚡ Strong experience with **REST APIs, authentication, RBAC, and databases**
-✅ UI/UX design using **Figma** with a design-to-code mindset
-📚 BSc in **Computer Science & Engineering** @ Adama Science and Technology University
+- Full-stack development with **Next.js, React, Node.js, Express**
+- Strong experience with **REST APIs, authentication, RBAC, and databases**
+- UI/UX design using **Figma** with a design-to-code mindset
+- BSc in **Computer Science & Engineering** @ Adama Science and Technology University
 
 I enjoy working on real-world products where **performance, clean architecture, and usability** matter.
 
