@@ -75,7 +75,7 @@ I enjoy working on real-world products where **performance, clean architecture, 
   <img src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&show_icons=true&theme=vue-dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-nn-yy&show_icons=true&theme=radical)
+
 ---
 
 📫 **Open to collaboration, freelance work, and serious projects.**  
