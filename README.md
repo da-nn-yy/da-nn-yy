@@ -28,17 +28,6 @@ src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c2
 
 ---
 
-###
-
-<h1 align="center">Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Daniel
-</h1>
-
-<img align="right" alt="Coding" width="320"
-    src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01">
-
-
 ## 👨‍💻 About Me
 
 I’m a **Full-Stack Developer** with a strong foundation in **modern web technologies, backend architecture, and UI/UX design**.  
