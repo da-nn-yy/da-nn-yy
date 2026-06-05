@@ -27,8 +27,7 @@
 src="https://github.com/user-attachments/assets/fc577698-34df-479e-8729-e881d7c29d01"/>
 
 ---
-
-## 👨‍💻 About Me
+<h1 align="left">👩‍💻 About Me</h1> <br/>
 
 I’m a **Full-Stack Developer** with a strong foundation in **modern web technologies, backend architecture, and UI/UX design**.  
 I focus on building **production-ready applications** that are scalable, secure, and intuitive to use.
