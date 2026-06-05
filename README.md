@@ -14,9 +14,7 @@
 
 ---
 
-<h1 align="center">
-  Hi 👋 I'm Daniel Merga
-</h1>
+## 👨‍💻 About Me
 
 <p align="center">
   <strong>Full-Stack Web Developer & UI/UX Designer</strong><br/>
